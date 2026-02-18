@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "もうええわ - Mo-Eh-Wa",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2026-02-18T07:56:41.568470Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もうええわ",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_もうええわ_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もうええわ",
+      "artist": "藤井風",
+      "has_synced": true,
+      "path": "select/02_もうええわ_藤井風.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もうええわ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_もうええわ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "もうええわ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_02_もうええわ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "もうええわ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_03_もうええわ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "もうええわ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_04_もうええわ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "もうええわ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_05_もうええわ_藤井_風.txt"
+    }
+  ]
+}
