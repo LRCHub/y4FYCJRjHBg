@@ -1,4 +1,4 @@
-# Fujii Kaze – もうええわ - Mo-Eh-Wa
+# Fujii Kaze – もうええわ
 
 > **歌詞登録ステータス：同期歌詞あり**
 
