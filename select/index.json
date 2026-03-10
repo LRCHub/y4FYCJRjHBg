@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "もうええわ",
+  "base_track": "もうええわ - Mo-Eh-Wa",
   "base_artist": "Fujii Kaze",
-  "createdAt": "2026-02-22T15:34:37.417881Z",
+  "createdAt": "2026-03-10T02:04:01.393721Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,22 @@
       "artist": "藤井風",
       "has_synced": true,
       "path": "select/02_もうええわ_藤井風.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mo-Eh-Wa 「もうええわ」",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/03_Mo-Eh-Wa_「もうええわ」_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "もうええわ - Mo-Eh-Wa",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/04_もうええわ_-_Mo-Eh-Wa_Fujii_Kaze.lrc"
     },
     {
       "id": "petitlyrics_1",
